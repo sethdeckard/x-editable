@@ -1,5 +1,5 @@
 {
-  "name": "x-editable",
+  "name": "x-editable-select2-4",
   "version": "1.5.1",
   "ignore": [
     "CHANGELOG.txt",
@@ -16,5 +16,5 @@
   ],
   "dependencies": {
     "jquery": ">=1.6"
-  }   
+  }
 }
